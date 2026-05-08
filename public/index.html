@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Boybak Plastik Enjeksiyon Üretim Planlama</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <section id="loginScreen" class="login-screen">
+    <form id="loginForm" class="login-card" autocomplete="off">
+      <div class="login-brand">
+        <div class="login-gear" aria-hidden="true">⚙</div>
+        <div>
+          <h1>BOYBAK</h1>
+          <p>ÜRETİM PLANLAMA SİSTEMİ</p>
+        </div>
+      </div>
+      <div class="login-panel">
+        <h2>SİSTEME GİRİŞ</h2>
+        <label class="login-field">
+          <span class="login-icon" aria-hidden="true">♙</span>
+          <input name="username" placeholder="Kullanıcı adı" autocomplete="username" required />
+        </label>
+        <label class="login-field">
+          <span class="login-icon" aria-hidden="true">▣</span>
+          <input name="password" type="password" placeholder="Şifre" autocomplete="current-password" required />
+        </label>
+        <button id="loginSubmitBtn" type="submit">GİRİŞ YAP</button>
+        <div id="loginError" class="login-error" hidden></div>
+      </div>
+      <div class="login-footer">© 2025 Boybak. Tüm hakları saklıdır.</div>
+    </form>
+  </section>
+
+  <aside class="sidebar app-shell" hidden>
+    <div class="brand">
+      <div class="logo">EP</div>
+      <div><h1>Boybak Plastik Üretim Planlama</h1><p>Enjeksiyon Makine Takibi</p></div>
+    </div>
+    <nav>
+      <button class="nav active" data-view="dashboard">Makine Genel Durumu</button>
+      <button class="nav" data-view="plan">Planlama</button>
+      <button class="nav" data-view="finished">Biten Ürünler / Siparişler</button>
+      <button class="nav" data-view="products">Ürünler</button>
+      <button class="nav" data-view="settings">Excel / Ayarlar</button>
+      <button class="nav" data-view="users">Kullanıcı Yönetimi</button>
+    </nav>
+    <a class="download" data-permission="settings" href="assets/ornek-plan.xlsx" download>Orijinal Excel'i indir</a>
+  </aside>
+
+  <main class="app-shell" hidden>
+    <header class="topbar">
+      <div><h2 id="pageTitle">Makine Genel Durumu</h2><span id="lastUpdated"></span></div>
+      <div class="actions">
+        <span id="userBadge" class="user-badge"></span>
+        <button id="exportCsv">CSV Dışa Aktar</button>
+        <button id="openMachinePrintModal" class="secondary" hidden>Makine Planı Yazdır</button>
+        <button id="logoutBtn" class="secondary">Çıkış</button>
+      </div>
+    </header>
+
+    <section id="dashboard" class="view active">
+      <div class="cards">
+        <div class="card"><span>Planlı İş</span><strong id="kpiPlans">0</strong></div>
+        <div class="card"><span>Toplam Üretim Adedi</span><strong id="kpiQty">0</strong></div>
+        <div class="card"><span>Seçili Makine</span><strong id="kpiMachine">Tümü</strong></div>
+        <div class="card machine-status-card"><span>Makine Durumu</span><strong id="kpiMachineStatus">Genel</strong></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h3>Makine Genel Durumu</h3><input id="dashboardSearch" placeholder="Ürün / makine ara" /></div>
+        <div id="machineSummary" class="machine-grid"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h3 id="selectedMachineTitle">Yakın Üretim Planı</h3><button id="clearMachineFilter" class="secondary" hidden>Tüm makineleri göster</button></div>
+        <div class="table-wrap"><table id="recentTable"></table></div>
+      </div>
+    </section>
+
+    <section id="plan" class="view">
+      <div class="panel planning-rules-panel">
+        <div class="panel-head"><h3>Planlama Gün Ayarları</h3><p id="planningRulesNote" class="note mini-note"></p></div>
+        <div class="check-grid">
+          <label class="check-card"><input id="skipSaturday" type="checkbox" /> <span>Cumartesi günlerini planlamaya alma</span></label>
+          <label class="check-card"><input id="skipSunday" type="checkbox" /> <span>Pazar günlerini planlamaya alma</span></label>
+          <label class="check-card"><input id="skipHolidays" type="checkbox" /> <span>Resmi / dini tatilleri planlamaya alma</span></label>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Yeni Plan Oluştur</h3>
+        <form id="planForm" class="form-grid">
+          <label>Makine<select name="machine" required></select></label>
+          <label>Ürün<input name="product" list="productList" placeholder="Ürün kodu yazın" required /><small id="productMachineHint" class="field-hint"></small></label>
+          <label>Boya<select name="color"></select></label>
+          <label>Adet<input name="quantity" type="number" min="1" value="1000" required /></label>
+          <label>Günlük Brüt Saat<select name="grossHours"><option value="10" selected>10 Saat</option><option value="12">12 Saat</option><option value="24">24 Saat</option></select></label>
+          <label>Yemek Molası dk<input name="meal" type="number" value="45" /></label>
+          <label>Çay Molası dk<input name="tea" type="number" value="15" /></label>
+          <label>Başlangıç<input name="start" type="datetime-local" required /><small id="startHint" class="field-hint"></small></label>
+          <button type="submit">Yeni Plan Oluştur</button>
+        </form>
+        <datalist id="productList"></datalist>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h3>Planlar</h3><div class="plan-actions"><button id="planEditToggle" type="button" class="secondary">Planlanmış İşleri Düzenle</button><input id="planSearch" placeholder="Plan içinde ara" /></div></div>
+        <div class="table-wrap"><table id="planTable"></table></div>
+      </div>
+    </section>
+
+
+    <section id="finished" class="view">
+      <div class="panel">
+        <div class="panel-head">
+          <div>
+            <h3>Biten Ürünler / Siparişler</h3>
+            <p class="note mini-note">Planlama ekranında durumu <strong>Bitti</strong></p>
+          </div>
+          <div class="finished-actions"><button id="clearFinishedBtn" class="danger" type="button">Temizle ve Excel Olarak İndir</button><input id="finishedSearch" placeholder="Biten işler içinde ara" /></div>
+        </div>
+        <div class="table-wrap"><table id="finishedTable"></table></div>
+      </div>
+    </section>
+
+    <section id="products" class="view">
+      <div class="panel">
+        <h3>Yeni Ürün Ekle</h3>
+        <form id="productForm" class="form-grid">
+          <label>Ürün Kodu<input name="kod" placeholder="örn. Y-MT-999" required /></label>
+          <label>Ürün Adı<input name="ad" placeholder="Ürün adı" required /></label>
+          <label>Kalıp No<input name="kalip" placeholder="Kalıp no" required /></label>
+          <label>Göz<input name="goz" type="number" min="1" required /></label>
+          <label>Çevrim sn<input name="cevrim" type="number" min="1" required /></label>
+          <label class="wide-field product-machines-field">Uygun Makineler
+            <div id="productMachinesSelect" class="machine-select-panel" role="group" aria-label="Uygun makineler"></div>
+            <small class="field-hint">Birden fazla makineyi kutucuklara tıklayarak seçebilirsiniz.</small>
+          </label>
+          <button type="submit">Ürün Ekle</button>
+        </form>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h3>Ürün Veri</h3><input id="productSearch" placeholder="Ürün kodu, adı veya kalıp ara" /></div>
+        <div id="productTopScroll" class="top-scroll"><div id="productTopScrollSpacer"></div></div>
+        <div id="productTableWrap" class="table-wrap"><table id="productTable"></table></div>
+      </div>
+    </section>
+
+
+    <section id="machinePrint" class="modal-backdrop print-modal" hidden>
+      <div class="modal-card print-modal-card">
+        <div class="panel-head modal-title-row"><h3>Makine Bazlı Plan - Yazdır</h3><button id="closeMachinePrintModal" type="button" class="secondary">Kapat</button></div>
+        <div class="print-layout">
+        <aside class="print-options panel">
+          <h3>Yazdırma Seçenekleri</h3>
+          <label>Makine<select id="printMachine"></select></label>
+          <label>Liste Kapsamı
+            <select id="printScope">
+              <option value="all" selected>Makinenin Tüm Planları</option>
+              <option value="date">Seçili Tarih / Vardiya</option>
+            </select>
+          </label>
+          <label class="print-date-option">Tarih<input id="printDate" type="date" /></label>
+          <label class="print-date-option">Vardiya
+            <select id="printShift">
+              <option value="all">Tüm Gün</option>
+              <option value="day">Gündüz Vardiyası (08:00 - 20:00)</option>
+              <option value="night">Gece Vardiyası (20:00 - 08:00)</option>
+            </select>
+          </label>
+          <label>Plan Türü
+            <select id="printPlanType">
+              <option value="all">Tüm Planlar</option>
+              <option value="working">Sadece Üretimde</option>
+              <option value="planned">Sadece Planlandı</option>
+            </select>
+          </label>
+          <div class="print-checks">
+            <label><input id="printShowCapacity" type="checkbox" checked /> Makine kapasite bilgilerini göster</label>
+            <label><input id="printShowSignature" type="checkbox" checked /> Operatör ve imza alanı göster</label>
+            <label><input id="printShowBarcode" type="checkbox" checked /> Barkod / QR alanı göster</label>
+          </div>
+          <button id="buildPrintPreview" type="button">Önizleme Oluştur</button>
+          <p class="note mini-note">Önizleme oluşturduktan sonra sağdaki A4 planı yazdırabilir veya PDF olarak kaydedebilirsiniz.</p>
+        </aside>
+        <section class="print-preview-wrap">
+          <div class="print-toolbar">
+            <button id="directPrintBtn" type="button">Yazdır</button>
+            <button id="downloadPrintPdfBtn" type="button" class="secondary">PDF Olarak Kaydet</button>
+          </div>
+          <div id="machinePrintSheet" class="print-sheet"></div>
+        </section>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="users" class="view">
+      <div class="panel">
+        <h3>Kullanıcı Oluştur</h3>
+        <form id="userForm" class="form-grid">
+          <label>Kullanıcı Adı<input name="username" placeholder="örn. operator1" required /></label>
+          <label>Şifre<input name="password" type="password" placeholder="Şifre" required /></label>
+          <label>Rol
+            <select name="role" required>
+              <option value="planning">Planlama</option>
+              <option value="production">Üretim</option>
+              <option value="viewer">Sadece Görüntüleme</option>
+              <option value="user">Özel Kullanıcı</option>
+              <option value="admin">Admin / Tüm Yetkiler</option>
+            </select>
+          </label>
+          <label>Ad / Etiket<input name="label" placeholder="örn. Operatör" /></label>
+          <div class="permission-select-block">
+            <strong>Sayfa Yetkileri</strong>
+            <p class="muted">Admin seçilirse tüm sayfalar otomatik yetkili olur.</p>
+            <div class="permission-grid form-permissions">
+              <label class="mini-check"><input type="checkbox" name="perm_dashboard" checked /> Makine Genel Durumu</label>
+              <label class="mini-check"><input type="checkbox" name="perm_plan" checked /> Planlama</label>
+              <label class="mini-check"><input type="checkbox" name="perm_finished" /> Biten Ürünler / Siparişler</label>
+              <label class="mini-check"><input type="checkbox" name="perm_products" /> Ürünler</label>
+              <label class="mini-check"><input type="checkbox" name="perm_settings" /> Excel / Ayarlar</label>
+              <label class="mini-check"><input type="checkbox" name="perm_users" /> Kullanıcı Yönetimi</label>
+            </div>
+          </div>
+          <button type="submit">Kullanıcı Ekle</button>
+        </form>
+      </div>
+      <div class="panel">
+        <h3>Şifre Değiştir</h3>
+        <form id="passwordForm" class="form-grid compact-form">
+          <label>Kullanıcı Adı<input name="username" placeholder="Kullanıcı adı" required /></label>
+          <label>Yeni Şifre<input name="password" type="password" placeholder="Yeni şifre" required /></label>
+          <button type="submit">Şifreyi Güncelle</button>
+        </form>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><h3>Kayıtlı Kullanıcılar</h3><p class="note mini-note">Yetkileri buradan işaretleyerek kullanıcı bazında değiştirebilirsin. Admin tüm sayfalara otomatik yetkilidir.</p></div>
+        <div class="table-wrap"><table id="userTable"></table></div>
+      </div>
+    </section>
+
+    <section id="settings" class="view">
+      <div class="panel settings">
+        <h3>Excel Entegrasyonu</h3>
+        <p>Excel dosyası yükleyerek ürün, resmi tatil ve makine planlarını tekrar okutula bilir.</p>
+        <input id="excelFile" type="file" accept=".xlsx,.xls" />
+        <button id="importExcel">Excel'i içe aktar</button>
+        <p class="note"></p>
+      </div>
+      <div class="panel settings">
+        <h3>Yedekleme ve Güvenlik</h3>
+        <p>Sunucudaki MySQL verilerinin anlık yedeğini JSON olarak indirebilir ve manuel yedek kaydı oluşturabilirsiniz.</p>
+        <div class="actions-inline">
+          <button id="manualBackupBtn" type="button">Manuel Yedek Oluştur</button>
+          <button id="downloadBackupBtn" type="button" class="secondary">Yedek İndir</button>
+        </div>
+        <p id="backupStatus" class="note mini-note"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

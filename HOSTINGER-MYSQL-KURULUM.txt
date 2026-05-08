@@ -1,0 +1,28 @@
+BOYBAK ÜRETİM PLANLAMA - HOSTINGER MYSQL KURULUM
+
+1) Bu ZIP dosyasını Hostinger Node.js uygulamasına yükleyin.
+
+2) Ayarlar:
+Framework: Express
+Node.js: 20.x
+Paket yöneticisi: npm
+Giriş dosyası: server.js
+Kök dizin: ./
+
+3) Hostinger > Node.js uygulaması > Ortam değişkenleri bölümüne şunları ekleyin:
+DB_HOST = localhost
+DB_PORT = 3306
+DB_NAME = u597488761_boybakplastik
+DB_USER = u597488761_boybak
+DB_PASSWORD = MySQL kullanıcı şifreniz
+ADMIN_PASSWORD = admin giriş şifreniz
+
+4) Deploy / Yeniden dağıt yapın.
+
+5) Test:
+https://boybak.info/health
+Cevap içinde "db":"mysql" yazıyorsa MySQL bağlantısı başarılıdır.
+
+6) Güvenlik:
+Kurulumdan sonra MySQL şifrenizi kimseyle paylaşmayın.
+Admin şifresini uygulama içinden veya ADMIN_PASSWORD üzerinden değiştirin.

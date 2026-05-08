@@ -1,0 +1,2679 @@
+{
+  "products": [
+    {
+      "kod": "Y-MT-052",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK KROM",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-1",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK BAKIR",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-2",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK GOLD",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-3",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK AHŞAP",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-S",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK SİYAH",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-B",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK BEYAZ",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-A",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK ANTRASİT",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-K",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK KAHVE",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-N",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK NATÜREL",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-052-M",
+      "ad": "KARE DİŞ FIRÇALIK KAPAK MERMER",
+      "kalip": "YM311",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-056",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI KROM",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-1",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI BAKIR",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-2",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI GOLD",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-3",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI AHŞAP",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-S",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI SİYAH",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-B",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI BEYAZ",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-A",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI ANTRASİT",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-K",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI KAHVE",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-N",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI NATÜREL",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-056-M",
+      "ad": "WC FIRÇA KARE ÜST ÇİFT BASKILI MERMER",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 45.0
+    },
+    {
+      "kod": "Y-MT-088",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER KROM",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-1",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER BAKIR",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-2",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER GOLD",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-3",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER AHŞAP",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-S",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER SİYAH",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-B",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER BEYAZ",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-A",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER ANTRASİT",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-K",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER KAHVE",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-N",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER NATÜREL",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-088-M",
+      "ad": "KARE ÇÖP KOVASI ÇEMBER MERMER",
+      "kalip": "YM 432",
+      "goz": 2.0,
+      "cevrim": 37.0
+    },
+    {
+      "kod": "Y-MT-089",
+      "ad": "KARE WC ÇEMBER KROM",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-1",
+      "ad": "KARE WC ÇEMBER BAKIR",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-2",
+      "ad": "KARE WC ÇEMBER GOLD",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-3",
+      "ad": "KARE WC ÇEMBER AHŞAP",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-S",
+      "ad": "KARE WC ÇEMBER SİYAH",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-B",
+      "ad": "KARE WC ÇEMBER BEYAZ",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-A",
+      "ad": "KARE WC ÇEMBER ANTRASİT",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-K",
+      "ad": "KARE WC ÇEMBER KAHVE",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-N",
+      "ad": "KARE WC ÇEMBER NATÜREL",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-M",
+      "ad": "KARE WC ÇEMBER MERMER",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089_BEJ",
+      "ad": "KARE WC ÇEMBER BEJ",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089_C.K",
+      "ad": "KARE WC ÇEMBER COLİSEUM KAHVE",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089_PUD",
+      "ad": "KARE WC ÇEMBER PUDRA",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089_YEŞ",
+      "ad": "KARE WC ÇEMBER YEŞİL",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-089-3-HAM",
+      "ad": "KARE WC ÇEMBER",
+      "kalip": "YM 423",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090",
+      "ad": "YUVARLAK WC ÇEMBER KROM",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-1",
+      "ad": "YUVARLAK WC ÇEMBER BAKIR",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-2",
+      "ad": "YUVARLAK WC ÇEMBER GOLD",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-3",
+      "ad": "YUVARLAK WC ÇEMBER AHŞAP",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-S",
+      "ad": "YUVARLAK WC ÇEMBER SİYAH",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-B",
+      "ad": "YUVARLAK WC ÇEMBER BEYAZ",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-A",
+      "ad": "YUVARLAK WC ÇEMBER ANTRASİT",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-K",
+      "ad": "YUVARLAK WC ÇEMBER KAHVE",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-N",
+      "ad": "YUVARLAK WC ÇEMBER NATÜREL",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-M",
+      "ad": "YUVARLAK WC ÇEMBER KROM MERMER",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-BEJ",
+      "ad": "YUVARLAK WC ÇEMBER BEJ",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-C.K",
+      "ad": "YUVARLAK WC ÇEMBER COL.KAHVE",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-PUD",
+      "ad": "YUVARLAK WC ÇEMBER PUDRA",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-YEŞ",
+      "ad": "YUVARLAK WC ÇEMBER YEŞİL",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090_S-MAT",
+      "ad": "YUVARLAK WC ÇEMBER MAT SİYAH",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090_B-MAT",
+      "ad": "YUVARLAK WC ÇEMBER MAT BEYAZ",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090_A-MAT",
+      "ad": "YUVARLAK WC ÇEMBER MAT ANTRASİT",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090_K-MAT",
+      "ad": "YUVARLAK WC ÇEMBER MAT KAHVE",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-090-3-HAM",
+      "ad": "YUVARLAK WC ÇEMBER",
+      "kalip": "YM 425",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-094",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK KROM",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-1",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK BAKIR",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-2",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK GOLD",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-3",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK AHŞAP",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-S",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK SİYAH",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-B",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK BEYAZ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-A",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK ANTRASİT",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-K",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK KAHVE",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-N",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK NATÜREL",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-1-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK BAKIR ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-2-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK GOLD ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-3-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK AHŞAP ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-S-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK SİYAH ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-B-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK BEYAZ ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-A-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK ANTRASİT ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-K-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK KAHVE ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094-N-Ç",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK NATÜREL ÇELTİKLİ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_BEJ",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK BEJ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_C.K",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK COLİSEUM KAHVE",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_PUD",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK PUDRA",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_YEŞ",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK YEŞİL",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_S-MAT",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MAT SİYAH",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_B-MAT",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MAT BEYAZ",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_A-MAT",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MAT ANTRASİT",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-094_K-MAT",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MAT KAHVE",
+      "kalip": "YM 300",
+      "goz": 4.0,
+      "cevrim": 26.0
+    },
+    {
+      "kod": "Y-MT-095",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK KROM",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-1",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK BAKIR",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-2",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK GOLD",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-3",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK AHŞAP",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-S",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK SİYAH",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-B",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK BEYAZ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-A",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK ANTRASİT",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-K",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK KAHVE",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-N",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK NATÜREL",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-M",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MERMER",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK KROM ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-1-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK BAKIR ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-2-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK GOLD ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-3-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK AHŞAP ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-S-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK SİYAH ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-B-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK BEYAZ ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-A-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK ANTRASİT ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-K-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK KAHVE ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095-N-Ç",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK NATÜREL ÇELTİKLİ",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_K-PP",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_P-PP",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_B-PP",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_S-PP",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_A-PP",
+      "ad": "SULTAN SIVI SABUNLUK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_K.YEŞİL-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_K.MÜR-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_K-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_P-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_B-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_S-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-095_A-PP",
+      "ad": "SULTAN DİŞ FIRÇALIK KAPAK MOBLEN",
+      "kalip": "YM 299",
+      "goz": 4.0,
+      "cevrim": 25.0
+    },
+    {
+      "kod": "Y-MT-106",
+      "ad": "YUVARLAK GAGA ÜST KROM",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-1",
+      "ad": "YUVARLAK GAGA ÜST BAKIR",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-2",
+      "ad": "YUVARLAK GAGA ÜST GOLD",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-3",
+      "ad": "YUVARLAK GAGA ÜST AHŞAP",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-S",
+      "ad": "YUVARLAK GAGA ÜST SİYAH",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-B",
+      "ad": "YUVARLAK GAGA ÜST BEYAZ",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-A",
+      "ad": "YUVARLAK GAGA ÜST ANTRASİT",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-K",
+      "ad": "YUVARLAK GAGA ÜST KAHVE",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-N",
+      "ad": "YUVARLAK GAGA ÜST NATÜREL",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-M",
+      "ad": "YUVARLAK GAGA ÜST MERMER",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-BEJ",
+      "ad": "YUVARLAK GAGA ÜST BEJ",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-CK",
+      "ad": "YUVARLAK GAGA ÜST COLİSEUM KAHVE",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-P",
+      "ad": "YUVARLAK GAGA ÜST PUDRA",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-106-Y",
+      "ad": "YUVARLAK GAGA ÜST YEŞİL",
+      "kalip": "YM 450",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107",
+      "ad": "YUVARLAK GAGA ALT KROM",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-1",
+      "ad": "YUVARLAK GAGA ALT BAKIR",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-2",
+      "ad": "YUVARLAK GAGA ALT GOLD",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-3",
+      "ad": "YUVARLAK GAGA ALT AHŞAP",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-S",
+      "ad": "YUVARLAK GAGA ALT SİYAH",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-B",
+      "ad": "YUVARLAK GAGA ALT BEYAZ",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-A",
+      "ad": "YUVARLAK GAGA ALT ANTRASİT",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-K",
+      "ad": "YUVARLAK GAGA ALT KAHVE",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-N",
+      "ad": "YUVARLAK GAGA ALT NATÜREL",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-M",
+      "ad": "YUVARLAK GAGA ALT MERMER",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-BEJ",
+      "ad": "YUVARLAK GAGA ALT BEJ",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-CK",
+      "ad": "YUVARLAK GAGA ALT COLİSEUM KAHVE",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-P",
+      "ad": "YUVARLAK GAGA ALT PUDRA",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-107-N",
+      "ad": "YUVARLAK GAGA ALT YEŞİL",
+      "kalip": "YM 451",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-108",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK KROM",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-1",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK BAKIR",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-2",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK GOLD",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-3",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK AHŞAP",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-S",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK SİYAH",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-B",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK BEYAZ",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-A",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK ANTRASİT",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-K",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK KAHVE",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-N",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK NATÜREL",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-M",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK MERMER",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-BEJ",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK BEJ",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-C.K",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK COLİSEUM KAHVE",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-PUD",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK PUDRA",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-YEŞİL",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK YEŞİL",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-108-3-HAM",
+      "ad": "ÇİZGİLİ VE ELEGANS DİŞ FIRÇA YUVARLAK",
+      "kalip": "YM 452",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-117",
+      "ad": "GAGA ALT KARE KROM",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-1",
+      "ad": "GAGA ALT KARE BAKIR",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-2",
+      "ad": "GAGA ALT KARE GOLD",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-3",
+      "ad": "GAGA ALT KARE AHŞAP",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-S",
+      "ad": "GAGA ALT KARE SİYAH",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-B",
+      "ad": "GAGA ALT KARE BEYAZ",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-A",
+      "ad": "GAGA ALT KARE ANTRASİT",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-K",
+      "ad": "GAGA ALT KARE KAHVE",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-117-N",
+      "ad": "GAGA ALT KARE NATÜREL",
+      "kalip": "YM 459",
+      "goz": 4.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-126",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST KROM",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-1",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST BAKIR",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-2",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST GOLD",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-3",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST AHŞAP",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-S",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST SİYAH",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-B",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST BEYAZ",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-A",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST ANTRASİT",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-K",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST KAHVE",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-N",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST NATÜREL",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-M",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST MERMER",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-BEJ",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST BEJ",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-CK",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA COLİSEUM KAHVE",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-P",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST PUDRA",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-126-Y",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ÜST YEŞİL",
+      "kalip": "YM 513",
+      "goz": 8.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-127",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT KROM",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-1",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT BAKIR",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-2",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT GOLD",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-3",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT AHŞAP",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-S",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT SİYAH",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-B",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT BEYAZ",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-A",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT ANTRASİT",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-K",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT KAHVE",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-N",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT NATÜREL",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-M",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT MERMER",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-BEJ",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT BEJ",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-CK",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT COLİSEUM KAHVE",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-P",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT PUDRA",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-127-Y",
+      "ad": "DİAMOND SIVI SABUNLUK POMPA ALT YEŞİL",
+      "kalip": "YM 515",
+      "goz": 8.0,
+      "cevrim": 40.0
+    },
+    {
+      "kod": "Y-MT-133",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER KROM",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-1",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER BAKIR",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-2",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER GOLD",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-3",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER AHŞAP",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-S",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER SİYAH",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-B",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER BEYAZ",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-A",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER ANTRASİT",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-K",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER KAHVE",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-N",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER NATÜREL",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-M",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER MERMER",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-BEJ",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER BEJ",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-CK",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER COLİSEUM KAHVE",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-P",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER PUDRA",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-133-Y",
+      "ad": "Ç.KOV.YUV.ÇITÇIT ÇEMBER YEŞİL",
+      "kalip": "YM 477",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER KROM",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-1",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER BAKIR",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-2",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER GOLD",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-3",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER AHŞAP",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-S",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER SİYAH",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-B",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER BEYAZ",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-A",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER ANTRASİT",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-K",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER KAHVE",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-N",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER NATÜREL",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-M",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER MERMER",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-BEJ",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER BEJ",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-CK",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER COLİSEUM KAHVE",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-P",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER PUDRA",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-135-Y",
+      "ad": "Ç.KOV.KARE.ÇITÇIT ÇEMBER YEŞİL",
+      "kalip": "YM 479",
+      "goz": 2.0,
+      "cevrim": 38.0
+    },
+    {
+      "kod": "Y-MT-138",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK KROM",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-1",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK BAKIR",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-2",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK GOLD",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-3",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK AHŞAP",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-S",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK SİYAH",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-B",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK BEYAZ",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-A",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK ANTRASİT",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-K",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK KAHVE",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-N",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK NATÜREL",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-138-M",
+      "ad": "DIAMOND PRİZMA KURU SABUNLUK KAPAK MERMER",
+      "kalip": "YM 488",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146",
+      "ad": "YENİ KARE GAGA ÜST KROM",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-1",
+      "ad": "YENİ KARE GAGA ÜST BAKIR",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-2",
+      "ad": "YENİ KARE GAGA ÜST GOLD",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-3",
+      "ad": "YENİ KARE GAGA ÜST AHŞAP",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-S",
+      "ad": "YENİ KARE GAGA ÜST SİYAH",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-B",
+      "ad": "YENİ KARE GAGA ÜST BEYAZ",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-A",
+      "ad": "YENİ KARE GAGA ÜST ANTRASİT",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-K",
+      "ad": "YENİ KARE GAGA ÜST KAHVE",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-N",
+      "ad": "YENİ KARE GAGA ÜST NATÜREL",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-146-M",
+      "ad": "YENİ KARE GAGA ÜST MERMER",
+      "kalip": "YM 494",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147",
+      "ad": "YENİ KARE GAGA ALT KROM",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-1",
+      "ad": "YENİ KARE GAGA ALT BAKIR",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-2",
+      "ad": "YENİ KARE GAGA ALT GOLD",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-3",
+      "ad": "YENİ KARE GAGA ALT AHŞAP",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-S",
+      "ad": "YENİ KARE GAGA ALT SİYAH",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-B",
+      "ad": "YENİ KARE GAGA ALT BEYAZ",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-A",
+      "ad": "YENİ KARE GAGA ALT ANTRASİT",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-K",
+      "ad": "YENİ KARE GAGA ALT KAHVE",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-N",
+      "ad": "YENİ KARE GAGA ALT NATÜREL",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-147-M",
+      "ad": "YENİ KARE GAGA ALT MERMER",
+      "kalip": "YM 495",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK KROM",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-1",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK BAKIR",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-2",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK GOLD",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-3",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK AHŞAP",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-S",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK SİYAH",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-B",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK BEYAZ",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-A",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK ANTRASİT",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-K",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK KAHVE",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-N",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK NATÜREL",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-M",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK MERMER",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-148-7",
+      "ad": "YENİ DİŞ FIRÇALIK KARE KAPAK BAMBU",
+      "kalip": "YM 496",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-156",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER KROM",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-1",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER BAKIR",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-2",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER GOLD",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-3",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER AHŞAP",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-S",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER SİYAH",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-B",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER BEYAZ",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-A",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER ANTRASİT",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-K",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER KAHVE",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-N",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER NATÜREL",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-156-M",
+      "ad": "DİAMOND Ç.KOV.YUV.ÇITÇIT ÇEMBER MERMER",
+      "kalip": "YM 320",
+      "goz": 2.0,
+      "cevrim": 42.0
+    },
+    {
+      "kod": "Y-MT-160",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK KROM",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-1",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK BAKIR",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-2",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK GOLD",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-3",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK AHŞAP",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-S",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK SİYAH",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-B",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK BEYAZ",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-A",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK ANTRASİT",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-K",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK KAHVE",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-N",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK NATÜREL",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-160-M",
+      "ad": "LUNA KARE KURU SABUNLUK KAPAK MERMER",
+      "kalip": "YM 521",
+      "goz": 4.0,
+      "cevrim": 30.0
+    },
+    {
+      "kod": "Y-MT-165",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK KROM",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-1",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK BAKIR",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-2",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK GOLD",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-3",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK AHŞAP",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-S",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK SİYAH",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-B",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK BEYAZ",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-A",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK ANTRASİT",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-K",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK KAHVE",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-165-N",
+      "ad": "COLİSEUM ÇÖP KOVASI KAPAK NATÜREL",
+      "kalip": "YM 563",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI KROM",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-1",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI BAKIR",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-2",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI GOLD",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-3",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI AHŞAP",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-S",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI SİYAH",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-B",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI BEYAZ",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-A",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI ANTRASİT",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-K",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI KAHVE",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-166-N",
+      "ad": "COLİSEUM ÇÖP KOVASI PEDALI NATÜREL",
+      "kalip": "YM 562",
+      "goz": 2.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK KROM",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-1",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK BAKIR",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-2",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK GOLD",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-3",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK AHŞAP",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-S",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK SİYAH",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-B",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK BEYAZ",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-A",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK ANTRASİT",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-K",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK KAHVE",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-N",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK NATÜREL",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-7",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK BAMBU",
+      "kalip": "YM 549",
+      "goz": 4.0,
+      "cevrim": 35.0
+    },
+    {
+      "kod": "Y-MT-167-M",
+      "ad": "KARE BAMBU SIVI SABUNLUK KAPAK MERMER",
+      "kalip": "YM 549",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-1",
+      "ad": "KARE ÇÖP KOVASI KAPAK BAKIR",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-2",
+      "ad": "KARE ÇÖP KOVASI KAPAK GOLD",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-3",
+      "ad": "KARE ÇÖP KOVASI KAPAK AHŞAP",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-S",
+      "ad": "KARE ÇÖP KOVASI KAPAK SİYAH",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-B",
+      "ad": "KARE ÇÖP KOVASI KAPAK BEYAZ",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-A",
+      "ad": "KARE ÇÖP KOVASI KAPAK ANTRASİT",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-K",
+      "ad": "KARE ÇÖP KOVASI KAPAK KAHVE",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-N",
+      "ad": "KARE ÇÖP KOVASI KAPAK NATÜREL",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "KARE KAPAK-M",
+      "ad": "KARE ÇÖP KOVASI KAPAK MERMER",
+      "kalip": "YM 480",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK KROM",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-1",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK BAKIR",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-2",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK GOLD",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-3",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK AHŞAP",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-S",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK SİYAH",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-B",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK BEYAZ",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-A",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK ANTRASİT",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-K",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK KAHVE",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-N",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK NATÜREL",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    },
+    {
+      "kod": "YUVARLAK KAPAK-M",
+      "ad": "YUVARLAK ÇÖP KAVASI KAPAK MERMER",
+      "kalip": "YM 478",
+      "goz": 2.0,
+      "cevrim": 36.0
+    }
+  ],
+  "colors": [
+    {
+      "kod": "STD",
+      "aciklama": "Standart"
+    },
+    {
+      "kod": "SİYAH",
+      "aciklama": "Siyah"
+    },
+    {
+      "kod": "BEYAZ",
+      "aciklama": "Beyaz"
+    },
+    {
+      "kod": "YEŞİL",
+      "aciklama": "Yeşil"
+    },
+    {
+      "kod": "KROM",
+      "aciklama": "Krom"
+    },
+    {
+      "kod": "BAKIR",
+      "aciklama": "Bakır"
+    },
+    {
+      "kod": "GOLD",
+      "aciklama": "Gold"
+    },
+    {
+      "kod": "AHŞAP",
+      "aciklama": "Ahşap"
+    },
+    {
+      "kod": "MERMER",
+      "aciklama": "Mermer"
+    }
+  ],
+  "holidays": [
+    {
+      "serial": 46023.0,
+      "aciklama": "Yılbaşı"
+    },
+    {
+      "serial": 46100.0,
+      "aciklama": "Ramazan Bayramı Arifesi"
+    },
+    {
+      "serial": 46101.0,
+      "aciklama": "Ramazan Bayramı 1. Gün"
+    },
+    {
+      "serial": 46102.0,
+      "aciklama": "Ramazan Bayramı 2. Gün"
+    },
+    {
+      "serial": 46103.0,
+      "aciklama": "Ramazan Bayramı 3. Gün"
+    },
+    {
+      "serial": 46135.0,
+      "aciklama": "23 Nisan"
+    },
+    {
+      "serial": 46143.0,
+      "aciklama": "Emek ve Dayanışma Günü"
+    },
+    {
+      "serial": 46161.0,
+      "aciklama": "19 Mayıs"
+    },
+    {
+      "serial": 46168.0,
+      "aciklama": "Kurban Bayramı Arifesi"
+    },
+    {
+      "serial": 46169.0,
+      "aciklama": "Kurban Bayramı 1. Gün"
+    },
+    {
+      "serial": 46170.0,
+      "aciklama": "Kurban Bayramı 2. Gün"
+    },
+    {
+      "serial": 46171.0,
+      "aciklama": "Kurban Bayramı 3. Gün"
+    },
+    {
+      "serial": 46172.0,
+      "aciklama": "Kurban Bayramı 4. Gün"
+    },
+    {
+      "serial": 46218.0,
+      "aciklama": "15 Temmuz"
+    },
+    {
+      "serial": 46264.0,
+      "aciklama": "30 Ağustos"
+    },
+    {
+      "serial": 46324.0,
+      "aciklama": "29 Ekim"
+    }
+  ],
+  "plans": [
+    {
+      "Sıra": "1",
+      "Ürün Kodu": "YUVARLAK KAPAK-3",
+      "Ürün Adı": "YUVARLAK ÇÖP KAVASI KAPAK AHŞAP",
+      "Kalıp No": "YM 478",
+      "Göz": "2",
+      "Çevrim (sn)": "36",
+      "Adet": "3600",
+      "Boya Kodu": null,
+      "Günlük Brüt Saat": "12",
+      "Yemek Molası (dk)": "45",
+      "Çay Molası (dk)": "15",
+      "Net Saat/Gün": "11",
+      "Hafta Sonu": "Çalışmaz",
+      "Başlangıç Tarihi": "46146",
+      "Başlangıç Saati": "0.33333333333333331",
+      "Üretim Süresi (saat)": "18",
+      "Üretim Günü": "1.6363636363636365",
+      "Bitiş Tarihi": "46147",
+      "Bitiş Saati": "0.66666666666666663",
+      "Durum": "Planlandı",
+      "Net Dk/Gün": "660",
+      "Hafta Kodu": "0000011",
+      "Norm Baş. Tarih": "46146",
+      "Baş. İş Dk": "0",
+      "Süre Dk": "1080",
+      "Toplam Dk": "1080",
+      "Ek Gün": "1",
+      "Bitiş İş Dk": "420",
+      "Bitiş DT": "46147.666666666664",
+      "Vardiya Tipi": "12 Saat",
+      "Ham Başlangıç": null,
+      "Ham Tarih": null,
+      "Ham Saat": null,
+      "İş Günü": null,
+      "Düzeltilmiş Başlangıç": null,
+      "Gündüz Başlangıç": null,
+      "12 Saat Başlangıç": null,
+      "2 Vardiya Başlangıç": null,
+      "Makine": "MAKİNE 1 - Yuzimi 260 Ton"
+    },
+    {
+      "Sıra": "2",
+      "Ürün Kodu": "Y-MT-167-S",
+      "Ürün Adı": "KARE BAMBU SIVI SABUNLUK KAPAK SİYAH",
+      "Kalıp No": "YM 549",
+      "Göz": "4",
+      "Çevrim (sn)": "35",
+      "Adet": "30000",
+      "Boya Kodu": null,
+      "Günlük Brüt Saat": "12",
+      "Yemek Molası (dk)": "45",
+      "Çay Molası (dk)": "15",
+      "Net Saat/Gün": "11",
+      "Hafta Sonu": "Çalışmaz",
+      "Başlangıç Tarihi": "46147",
+      "Başlangıç Saati": "0.70833333332848269",
+      "Üretim Süresi (saat)": "72.916666666666671",
+      "Üretim Günü": "6.6287878787878789",
+      "Bitiş Tarihi": "46156",
+      "Bitiş Saati": "0.49652777777292711",
+      "Durum": "Planlandı",
+      "Net Dk/Gün": "660",
+      "Hafta Kodu": "0000011",
+      "Norm Baş. Tarih": "46147",
+      "Baş. İş Dk": "479.99999999301514",
+      "Süre Dk": "4375",
+      "Toplam Dk": "4854.9999999930151",
+      "Ek Gün": "7",
+      "Bitiş İş Dk": "234.99999999301508",
+      "Bitiş DT": "46156.496527777774",
+      "Vardiya Tipi": "12 Saat",
+      "Ham Başlangıç": "46147.708333333328",
+      "Ham Tarih": "46147",
+      "Ham Saat": "0.70833333332848269",
+      "İş Günü": "46147",
+      "Düzeltilmiş Başlangıç": "46147.708333333328",
+      "Gündüz Başlangıç": "46147.708333333328",
+      "12 Saat Başlangıç": "46147.708333333328",
+      "2 Vardiya Başlangıç": "46147.708333333328",
+      "Makine": "MAKİNE 1 - Yuzimi 260 Ton"
+    },
+    {
+      "Sıra": "3",
+      "Ürün Kodu": "Y-MT-135-Y",
+      "Ürün Adı": "Ç.KOV.KARE.ÇITÇIT ÇEMBER YEŞİL",
+      "Kalıp No": "YM 479",
+      "Göz": "2",
+      "Çevrim (sn)": "38",
+      "Adet": "1500",
+      "Boya Kodu": null,
+      "Günlük Brüt Saat": "12",
+      "Yemek Molası (dk)": "45",
+      "Çay Molası (dk)": "15",
+      "Net Saat/Gün": "11",
+      "Hafta Sonu": "Çalışmaz",
+      "Başlangıç Tarihi": "46156",
+      "Başlangıç Saati": "0.53819444443797693",
+      "Üretim Süresi (saat)": "7.916666666666667",
+      "Üretim Günü": "0.71969696969696972",
+      "Bitiş Tarihi": "46157",
+      "Bitiş Saati": "0.37847222221575472",
+      "Durum": "Planlandı",
+      "Net Dk/Gün": "660",
+      "Hafta Kodu": "0000011",
+      "Norm Baş. Tarih": "46156",
+      "Baş. İş Dk": "249.99999999068677",
+      "Süre Dk": "475",
+      "Toplam Dk": "724.99999999068677",
+      "Ek Gün": "1",
+      "Bitiş İş Dk": "64.999999990686774",
+      "Bitiş DT": "46157.378472222219",
+      "Vardiya Tipi": "12 Saat",
+      "Ham Başlangıç": "46156.538194444438",
+      "Ham Tarih": "46156",
+      "Ham Saat": "0.53819444443797693",
+      "İş Günü": "46156",
+      "Düzeltilmiş Başlangıç": "46156.538194444438",
+      "Gündüz Başlangıç": "46156.538194444438",
+      "12 Saat Başlangıç": "46156.538194444438",
+      "2 Vardiya Başlangıç": "46156.538194444438",
+      "Makine": "MAKİNE 1 - Yuzimi 260 Ton"
+    },
+    {
+      "Sıra": "4",
+      "Ürün Kodu": "Y-MT-126-CK",
+      "Ürün Adı": "DİAMOND SIVI SABUNLUK POMPA COLİSEUM KAHVE",
+      "Kalıp No": "YM 513",
+      "Göz": "8",
+      "Çevrim (sn)": "35",
+      "Adet": "15000",
+      "Boya Kodu": null,
+      "Günlük Brüt Saat": "10",
+      "Yemek Molası (dk)": "45",
+      "Çay Molası (dk)": "15",
+      "Net Saat/Gün": "9",
+      "Hafta Sonu": "Çalışmaz",
+      "Başlangıç Tarihi": "46157",
+      "Başlangıç Saati": "0.42013888888322981",
+      "Üretim Süresi (saat)": "18.229166666666668",
+      "Üretim Günü": "2.0254629629629632",
+      "Bitiş Tarihi": "46162",
+      "Bitiş Saati": "0.429861111105452",
+      "Durum": "Planlandı",
+      "Net Dk/Gün": "540",
+      "Hafta Kodu": "0000011",
+      "Norm Baş. Tarih": "46157",
+      "Baş. İş Dk": "124.99999999185096",
+      "Süre Dk": "1094",
+      "Toplam Dk": "1218.9999999918509",
+      "Ek Gün": "2",
+      "Bitiş İş Dk": "138.99999999185093",
+      "Bitiş DT": "46162.429861111108",
+      "Vardiya Tipi": "Gündüz",
+      "Ham Başlangıç": "46157.420138888883",
+      "Ham Tarih": "46157",
+      "Ham Saat": "0.42013888888322981",
+      "İş Günü": "46157",
+      "Düzeltilmiş Başlangıç": "46157.420138888883",
+      "Gündüz Başlangıç": "46157.420138888883",
+      "12 Saat Başlangıç": "46157.420138888883",
+      "2 Vardiya Başlangıç": "46157.420138888883",
+      "Makine": "MAKİNE 1 - Yuzimi 260 Ton"
+    },
+    {
+      "Sıra": "5",
+      "Ürün Kodu": "Y-MT-160",
+      "Ürün Adı": "LUNA KARE KURU SABUNLUK KAPAK KROM",
+      "Kalıp No": "YM 521",
+      "Göz": "4",
+      "Çevrim (sn)": "30",
+      "Adet": "2000",
+      "Boya Kodu": null,
+      "Günlük Brüt Saat": "10",
+      "Yemek Molası (dk)": "45",
+      "Çay Molası (dk)": "15",
+      "Net Saat/Gün": "9",
+      "Hafta Sonu": "Çalışmaz",
+      "Başlangıç Tarihi": "46162",
+      "Başlangıç Saati": "0.47152777777228039",
+      "Üretim Süresi (saat)": "4.166666666666667",
+      "Üretim Günü": "0.46296296296296302",
+      "Bitiş Tarihi": "46162",
+      "Bitiş Saati": "0.68680555555005818",
+      "Durum": "Planlandı",
+      "Net Dk/Gün": "540",
+      "Hafta Kodu": "0000011",
+      "Norm Baş. Tarih": "46162",
+      "Baş. İş Dk": "198.99999999208379",
+      "Süre Dk": "250",
+      "Toplam Dk": "448.99999999208376",
+      "Ek Gün": "0",
+      "Bitiş İş Dk": "448.99999999208376",
+      "Bitiş DT": "46162.686805555553",
+      "Vardiya Tipi": "Gündüz",
+      "Ham Başlangıç": "46162.471527777772",
+      "Ham Tarih": "46162",
+      "Ham Saat": "0.47152777777228039",
+      "İş Günü": "46162",
+      "Düzeltilmiş Başlangıç": "46162.471527777772",
+      "Gündüz Başlangıç": "46162.471527777772",
+      "12 Saat Başlangıç": "46162.471527777772",
+      "2 Vardiya Başlangıç": "46162.471527777772",
+      "Makine": "MAKİNE 1 - Yuzimi 260 Ton"
+    }
+  ],
+  "settings": {
+    "skipSaturday": true,
+    "skipSunday": true,
+    "skipHolidays": true
+  }
+}

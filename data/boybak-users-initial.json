@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "password": "1234",
+    "role": "admin",
+    "label": "Admin",
+    "permissions": ["*"]
+  },
+  {
+    "username": "kullanici",
+    "password": "1234",
+    "role": "user",
+    "label": "Kullanıcı",
+    "permissions": ["dashboard", "plan"]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "boybak-hostinger-mysql-app",
+  "version": "1.0.0",
+  "description": "Boybak Uretim Planlama - Hostinger Express MySQL deployment",
+  "private": true,
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build tamamlandi",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.11.5",
+    "dotenv": "^16.4.5"
+  }
+}

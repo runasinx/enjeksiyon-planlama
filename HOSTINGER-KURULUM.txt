@@ -1,0 +1,21 @@
+HOSTINGER NODE.JS KURULUM
+
+1) Hostinger > Web siteleri > Node.js > Başla
+2) ZIP yükle seçeneğiyle bu dosyayı yükleyin.
+3) Ayarlar çıkarsa:
+   - Framework: Other / Diğer
+   - Root directory: ./
+   - Node.js version: 20
+   - Build command: npm install
+     veya Hostinger otomatik verirse boş bırakabilirsiniz.
+   - Start command: npm start
+     alternatif: node server.js
+   - Startup file: server.js
+4) Deploy / Yayınla.
+5) Açılan geçici linkte test edin.
+6) Sonra domain olarak boybak.info bağlanır ve SSL aktif edilir.
+
+İlk giriş:
+admin / 1234
+
+Not: ZIP içinde node_modules yoktur. Hostinger npm install ile bağımlılıkları kurar.
