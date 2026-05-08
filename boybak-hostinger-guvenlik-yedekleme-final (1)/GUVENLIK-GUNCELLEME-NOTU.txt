@@ -1,0 +1,23 @@
+Boybak Üretim Planlama - Güvenlik ve Yedekleme Güncellemesi
+
+Eklenenler:
+- Kullanıcı rolleri genişletildi: Admin, Planlama, Üretim, Sadece Görüntüleme, Özel Kullanıcı.
+- Kullanıcı oluştururken rol seçimine göre varsayılan sayfa yetkileri otomatik gelir.
+- Şifre güvenliği eklendi: en az 8 karakter, büyük/küçük harf ve rakam zorunlu.
+- Şifre değiştirme ekranı güçlendirildi.
+- Oturum güvenliği eklendi: 30 dakika işlem yapılmazsa otomatik çıkış.
+- Giriş ekranında varsayılan şifre gösterimi kaldırıldı.
+- Ayarlar ekranına manuel yedek oluşturma eklendi.
+- Ayarlar ekranına sunucu yedeği indirme eklendi.
+- Sunucu güvenlik başlıkları güçlendirildi.
+
+Hostinger kurulumu:
+1. boybak.info Node.js kontrol paneline girin.
+2. Bu zip dosyasını yeni dağıtım olarak yükleyin.
+3. Framework: Express, Node.js: 20.x, giriş dosyası: server.js.
+4. DB ortam değişkenleri daha önce kayıtlıysa tekrar girmenize gerek olmayabilir; yoksa DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD ekleyin.
+5. Dağıt / Redeploy yapın.
+
+Önemli:
+- Canlı sistemde admin / 1234 gibi varsayılan şifre bırakmayın.
+- İlk girişten sonra Kullanıcı Yönetimi ekranından tüm şifreleri güçlü şifrelerle değiştirin.

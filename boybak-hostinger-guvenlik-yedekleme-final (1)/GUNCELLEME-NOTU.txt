@@ -1,0 +1,21 @@
+Boybak Üretim Planlama - Boya Kodu Güncellemesi
+
+Bu paket ürünlere boya_kodu bilgisini ekler ve mevcut verileri otomatik dönüştürür.
+
+Eklenenler:
+- Ürün ekleme formuna Boya Kodu alanı
+- Ürünler tablosuna Boya Kodu sütunu
+- Ürün Düzenle açılır penceresi
+- Plan oluştururken ürün boya kodunu otomatik plana aktarma
+- Planlama, Makine Genel Durumu, Biten Ürünler, Yazdırma ve CSV/Excel çıktılarında Boya Kodu gösterimi
+- Excel içe aktarmada Ürün Veri sayfasındaki Boya Kodu sütununu okuma
+- Mevcut ürün kayıtları için otomatik boya_kodu normalizasyonu
+
+Hostinger kurulum:
+1. Node.js uygulamasında yeni dağıtım oluşturun.
+2. Bu zip dosyasını yükleyin.
+3. Framework: Express
+4. Node.js: 20.x
+5. Giriş dosyası: server.js
+6. Ortam değişkenlerini aynı bırakın.
+7. Kaydet ve yeniden dağıt yapın.
